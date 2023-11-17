@@ -4,7 +4,7 @@ Video 👇
 
 # docker-lamp
 
-Docker Apache, MySQL 8.0, PHPMyAdmin and PHP.
+Docker Apache, MySQL 8.0, PHPMyAdmin, PHP.
 
 ```
 docker-compose up -d
