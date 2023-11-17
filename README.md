@@ -11,5 +11,7 @@ docker-compose up -d
 ```
 
 base de datos [http://127.0.0.1:3307](http://127.0.0.1:3307)
+
 phpmyadmin at [http://127.0.0.1:8000](http://127.0.0.1:8000)
-Puerto Prueba[http://127.0.0.1:81](http://127.0.0.1:81)
+
+Carpeta publica [http://127.0.0.1:81](http://127.0.0.1:81)
